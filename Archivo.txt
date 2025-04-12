@@ -1,3 +1,5 @@
 Creación de archivo tipo texto donde me presento como alumna
 Soy Fiorella García y me encuentro cursando la Tecnicatura
 de Programación 
+
+Agrego unas lineas para generacion de conflictos en git
