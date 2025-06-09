@@ -3,7 +3,7 @@
 📍 Universidad Tecnológica Nacional  
 
 ## ✨ Estudiante  
-- *Nombre:* Escobar, Joaquin
+- *Nombre:* Escobar, Joaquin -
 Garcia Galfione, Fiorella
 - *Comisión:* M2025-7 
 
