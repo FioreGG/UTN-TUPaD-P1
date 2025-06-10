@@ -10,4 +10,4 @@
 ## 📂 Descripción del Repositorio  
 Esta carpeta almacena el TP Integrador realizado para la materia *Programación 1*.
 
-📌 Enlace al video subido a YouTube:
+📌 Enlace al video subido a YouTube: https://youtu.be/ePj73viRtJ0?si=0GmDikgr86CYnVpp 
